@@ -1,0 +1,36 @@
+[INFO ]2024-04-02 00:14:12.193 [main]UserModule-update login status of response    {"message":"Failed to update UserLogin as email already exists!","success":false}
+[INFO ]2024-04-02 00:14:13.028 [main]UserModule-update login status of response    {"timestamp":"2024-04-02T04:14:13.035+00:00","status":401,"error":"Unauthorized","path":"/lms/users/userLogin/U1727"}
+[INFO ]2024-04-02 02:40:10.719 [main]UserModule-update login status of response    {"message":"Failed to update UserLogin as email already exists!","success":false}
+[INFO ]2024-04-02 02:40:11.716 [main]UserModule-update login status of response    {"timestamp":"2024-04-02T06:40:11.752+00:00","status":401,"error":"Unauthorized","path":"/lms/users/userLogin/U1950"}
+[INFO ]2024-04-02 02:55:21.238 [main]UserModule-update login status of response    UserLoginEmail/Status Updated for User: U1988
+[INFO ]2024-04-02 02:55:22.051 [main]UserModule-update login status of response    {"timestamp":"2024-04-02T06:55:22.099+00:00","status":401,"error":"Unauthorized","path":"/lms/users/userLogin/U1988"}
+[INFO ]2024-04-02 09:24:55.957 [main]UserModule-update login status of response    UserLoginEmail/Status Updated for User: U2073
+[INFO ]2024-04-02 09:24:56.757 [main]UserModule-update login status of response    {"timestamp":"2024-04-02T13:24:56.797+00:00","status":401,"error":"Unauthorized","path":"/lms/users/userLogin/U2073"}
+[INFO ]2024-04-02 09:37:53.465 [main]UserModule-update login status of response    {"message":"Failed to update UserLogin as email already exists!","success":false}
+[INFO ]2024-04-02 09:37:55.028 [main]UserModule-update login status of response    {"timestamp":"2024-04-02T13:37:55.065+00:00","status":401,"error":"Unauthorized","path":"/lms/users/userLogin/U2076"}
+[INFO ]2024-04-02 09:42:40.028 [main]UserModule-update login status of response    {"message":"Failed to update UserLogin as email already exists!","success":false}
+[INFO ]2024-04-02 09:42:41.048 [main]UserModule-update login status of response    {"timestamp":"2024-04-02T13:42:41.086+00:00","status":401,"error":"Unauthorized","path":"/lms/users/userLogin/U2079"}
+[INFO ]2024-04-02 10:01:41.392 [main]UserModule-update login status of response    {"timestamp":"2024-04-02T14:01:41.403+00:00","status":401,"error":"Unauthorized","path":"/lms/users/userLogin/null"}
+[INFO ]2024-04-02 10:01:42.324 [main]UserModule-update login status of response    {"timestamp":"2024-04-02T14:01:42.340+00:00","status":401,"error":"Unauthorized","path":"/lms/users/userLogin/null"}
+[INFO ]2024-04-02 10:05:11.085 [main]UserModule-update login status of response    UserLoginEmail/Status Updated for User: U55
+[INFO ]2024-04-02 10:05:11.914 [main]UserModule-update login status of response    {"timestamp":"2024-04-02T14:05:11.936+00:00","status":401,"error":"Unauthorized","path":"/lms/users/userLogin/U55"}
+[INFO ]2024-04-02 10:31:54.988 [main]UserModule-update login status of response    UserLoginEmail/Status Updated for User: U89
+[INFO ]2024-04-02 10:31:55.860 [main]UserModule-update login status of response    {"timestamp":"2024-04-02T14:31:55.875+00:00","status":401,"error":"Unauthorized","path":"/lms/users/userLogin/U89"}
+[INFO ]2024-04-02 10:51:12.388 [main]UserModule-update login status of response    UserLoginEmail/Status Updated for User: U121
+[INFO ]2024-04-02 10:51:13.412 [main]UserModule-update login status of response    {"timestamp":"2024-04-02T14:51:13.414+00:00","status":401,"error":"Unauthorized","path":"/lms/users/userLogin/U121"}
+[INFO ]2024-04-02 11:07:41.868 [main]UserModule-update login status of response    UserLoginEmail/Status Updated for User: U152
+[INFO ]2024-04-02 11:07:42.687 [main]UserModule-update login status of response    {"timestamp":"2024-04-02T15:07:42.687+00:00","status":401,"error":"Unauthorized","path":"/lms/users/userLogin/U152"}
+[INFO ]2024-04-02 11:54:02.135 [main]UserModule-update login status of response    UserLoginEmail/Status Updated for User: U232
+[INFO ]2024-04-02 11:54:02.984 [main]UserModule-update login status of response    {"timestamp":"2024-04-02T15:54:03.021+00:00","status":401,"error":"Unauthorized","path":"/lms/users/userLogin/U232"}
+[INFO ]2024-04-02 12:10:31.943 [main]UserModule-update login status of response    UserLoginEmail/Status Updated for User: U256
+[INFO ]2024-04-02 12:10:32.793 [main]UserModule-update login status of response    {"timestamp":"2024-04-02T16:10:32.824+00:00","status":401,"error":"Unauthorized","path":"/lms/users/userLogin/U256"}
+[INFO ]2024-04-02 12:43:40.335 [main]UserModule-update login status of response    UserLoginEmail/Status Updated for User: U307
+[INFO ]2024-04-02 12:43:41.138 [main]UserModule-update login status of response    {"timestamp":"2024-04-02T16:43:41.222+00:00","status":401,"error":"Unauthorized","path":"/lms/users/userLogin/U307"}
+[INFO ]2024-04-02 13:06:03.077 [main]UserModule-update login status of response    UserLoginEmail/Status Updated for User: U353
+[INFO ]2024-04-02 13:06:03.903 [main]UserModule-update login status of response    {"timestamp":"2024-04-02T17:06:04.018+00:00","status":401,"error":"Unauthorized","path":"/lms/users/userLogin/U353"}
+[INFO ]2024-04-02 13:20:05.736 [main]UserModule-update login status of response    UserLoginEmail/Status Updated for User: U390
+[INFO ]2024-04-02 13:20:06.516 [main]UserModule-update login status of response    {"timestamp":"2024-04-02T17:20:06.655+00:00","status":401,"error":"Unauthorized","path":"/lms/users/userLogin/U390"}
+[INFO ]2024-04-02 13:52:46.651 [main]UserModule-update login status of response    UserLoginEmail/Status Updated for User: U426
+[INFO ]2024-04-02 13:52:47.481 [main]UserModule-update login status of response    {"timestamp":"2024-04-02T17:52:47.682+00:00","status":401,"error":"Unauthorized","path":"/lms/users/userLogin/U426"}
+[INFO ]2024-04-02 14:02:13.020 [main]UserModule-update login status of response    {"message":"Failed to update UserLogin as email already exists!","success":false}
+[INFO ]2024-04-02 14:02:13.916 [main]UserModule-update login status of response    {"timestamp":"2024-04-02T18:02:14.033+00:00","status":401,"error":"Unauthorized","path":"/lms/users/userLogin/U444"}
